@@ -47,16 +47,16 @@ This project is a **Customer Management System** built using the **MERN stack (M
    cd your-repo-name
 Set up the Backend
 
-Navigate to the Backend folder:
-cd Backend
-npm i
+Navigate to the Backend folder:->
+cd Backend->
+npm i->
 nodemon index.js
 
 Set up the Frontend
-Navigate to the frontend folder:
-cd frontend
-npm i
-npm start
+Navigate to the frontend folder:->
+cd frontend->
+npm i->
+npm start->
 Access the Application
 
 Backend API: http://localhost:5000
